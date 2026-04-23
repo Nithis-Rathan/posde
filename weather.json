@@ -1,0 +1,24 @@
+{
+  "ocean678ui4rhfhuk": {
+    "state": "allowed",
+    "SMBIOS_UUID": "C9E8D44C-3183-11B2-A85C-81B1FBBBFC76",
+    "Motherboard": {
+      "Manufacturer": "LENOVO",
+      "Product": "20HES18R03",
+      "SerialNumber": "L2HF79502X0",
+      "Version": "SDK0J40697 WIN"
+    },
+    "CPU_Processor_ID": "BFEBFBFF000806E9"
+  },
+  "ocean67568ui4rhfhuk": {
+    "state": "allowed",
+    "SMBIOS_UUID": "C9E8D44C-3153-11B2-A85C-81B1FBBBFC76",
+    "Motherboard": {
+      "Manufacturer": "LENOVO",
+      "Product": "210HES18R03",
+      "SerialNumber": "L23HF79502X0",
+      "Version": "SDK0JRF40697 WIN"
+    },
+    "CPU_Processor_ID": "BFEBEFGFBFF000806E9"
+  }
+}
