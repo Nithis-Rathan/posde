@@ -20,5 +20,18 @@
       "Version": "SDK0JRF40697 WIN"
     },
     "CPU_Processor_ID": "BFEBEFGFBFF000806E9"
-  }
+  },
+
+    "ocean678ui4rhfhuk": {
+        "state": "allowed",
+        "SMBIOS_UUID": "E96FC5F9-95DB-EB11-810C-5081404C05A3",
+        "Motherboard": {
+            "Manufacturer": "HP",
+            "Product": "8742",
+            "SerialNumber": "PJWMKE21WFDLKY",
+            "Version": "02.51"
+        },
+        "CPU_Processor_ID": "BFEBFBFF000A0652"
+    }
+
 }
