@@ -32,6 +32,18 @@
             "Version": "02.51"
         },
         "CPU_Processor_ID": "BFEBFBFF000A0652"
+    },
+    
+    "ocean69": {
+        "state": "allowed",
+        "SMBIOS_UUID": "961E132D-0894-BF4E-A500-298E4F2A0754",
+        "Motherboard": {
+            "Manufacturer": "LENOVO",
+            "Product": "FA506QM",
+            "SerialNumber": "N623NRCX00A5WEMBY",
+            "Version": "1.0"
+        },
+        "CPU_Processor_ID": "178BFBFF00A50F00"
     }
 
 }
